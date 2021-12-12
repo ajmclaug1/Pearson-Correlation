@@ -1,6 +1,8 @@
 # Pearson-Correlation
  Simple Correlation Calculator
 
+This is an executable created using pyInstaller to check the correlation between different columns in a dataset.
+
 Save your data to the Data.xlsx file, please ensure there is no index column and all columns are the same lenght,
 see the format in the sample Data file for reference.
 
